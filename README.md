@@ -10,8 +10,8 @@ Repositori ini merupakan kumpulan proyek maupun tugas yang berkaitan dengan mata
 
 ## Tentang Saya
 - **Muhamad Helmi Adhfandi**  
-  NIM: A11.2022.14160  
-  Kelas: A11.4510
+  NIM : A11.2022.14160  
+  Kelompok : A11.4510
 
 ## Struktur Repositori
 - **Data**: Folder yang berisi dataset yang digunakan dalam proyek/penugasan.
